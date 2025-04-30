@@ -26,7 +26,7 @@ namespace APIoxxo.Controllers
                             (COALESCE(t.total_puntos, 0) + COALESCE(d.total_puntos, 0)) as puntos
                         FROM usuario u
                         LEFT JOIN (
-                            SELECT id_usuario, SUM(puntos) as total_puntos 
+                            SELECT id_usuario, SUM(1000 - puntos) as total_puntos 
                             FROM taberna 
                             GROUP BY id_usuario
                         ) t ON u.id_usuario = t.id_usuario
@@ -35,8 +35,7 @@ namespace APIoxxo.Controllers
                             FROM decision 
                             GROUP BY id_usuario
                         ) d ON u.id_usuario = d.id_usuario
-                        ORDER BY puntos DESC 
-                        LIMIT 5", connection))
+                        ORDER BY puntos DESC ", connection))
                     {
                         using(var reader = command.ExecuteReader())
                         {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qpvY0gbniVQ=",
+  "dgSpecHash": "2XZ1F5QMZB8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elpro\\Desktop\\API_IOS\\API_IOS\\API_IOS.csproj",
+  "projectFilePath": "C:\\Users\\Elpro\\Documents\\GitHub\\RetoOxxoApisEbonfire\\APIS\\API_IOS\\API_IOS\\API_IOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elpro\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\Elpro\\.nuget\\packages\\google.protobuf\\3.30.0\\google.protobuf.3.30.0.nupkg.sha512",

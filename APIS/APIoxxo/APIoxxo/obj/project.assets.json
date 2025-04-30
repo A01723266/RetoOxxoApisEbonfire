@@ -2558,19 +2558,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maavi\\.nuget\\packages\\": {}
+    "C:\\Users\\Elpro\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maavi\\Desktop\\APIoxxo\\APIoxxo\\APIoxxo\\APIoxxo.csproj",
+      "projectUniqueName": "C:\\Users\\Elpro\\Documents\\GitHub\\RetoOxxoApisEbonfire\\APIS\\APIoxxo\\APIoxxo\\APIoxxo.csproj",
       "projectName": "APIoxxo",
-      "projectPath": "C:\\Users\\maavi\\Desktop\\APIoxxo\\APIoxxo\\APIoxxo\\APIoxxo.csproj",
-      "packagesPath": "C:\\Users\\maavi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maavi\\Desktop\\APIoxxo\\APIoxxo\\APIoxxo\\obj\\",
+      "projectPath": "C:\\Users\\Elpro\\Documents\\GitHub\\RetoOxxoApisEbonfire\\APIS\\APIoxxo\\APIoxxo\\APIoxxo.csproj",
+      "packagesPath": "C:\\Users\\Elpro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Elpro\\Documents\\GitHub\\RetoOxxoApisEbonfire\\APIS\\APIoxxo\\APIoxxo\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\maavi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Elpro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

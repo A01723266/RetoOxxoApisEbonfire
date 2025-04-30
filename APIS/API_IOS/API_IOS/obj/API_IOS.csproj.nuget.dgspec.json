@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elpro\\Desktop\\API_IOS\\API_IOS\\API_IOS.csproj": {}
+    "C:\\Users\\Elpro\\Documents\\GitHub\\RetoOxxoApisEbonfire\\APIS\\API_IOS\\API_IOS\\API_IOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elpro\\Desktop\\API_IOS\\API_IOS\\API_IOS.csproj": {
+    "C:\\Users\\Elpro\\Documents\\GitHub\\RetoOxxoApisEbonfire\\APIS\\API_IOS\\API_IOS\\API_IOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elpro\\Desktop\\API_IOS\\API_IOS\\API_IOS.csproj",
+        "projectUniqueName": "C:\\Users\\Elpro\\Documents\\GitHub\\RetoOxxoApisEbonfire\\APIS\\API_IOS\\API_IOS\\API_IOS.csproj",
         "projectName": "API_IOS",
-        "projectPath": "C:\\Users\\Elpro\\Desktop\\API_IOS\\API_IOS\\API_IOS.csproj",
+        "projectPath": "C:\\Users\\Elpro\\Documents\\GitHub\\RetoOxxoApisEbonfire\\APIS\\API_IOS\\API_IOS\\API_IOS.csproj",
         "packagesPath": "C:\\Users\\Elpro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elpro\\Desktop\\API_IOS\\API_IOS\\obj\\",
+        "outputPath": "C:\\Users\\Elpro\\Documents\\GitHub\\RetoOxxoApisEbonfire\\APIS\\API_IOS\\API_IOS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
